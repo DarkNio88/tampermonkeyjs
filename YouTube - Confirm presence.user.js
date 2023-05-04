@@ -12,7 +12,6 @@
 (function() {
     'use strict';
     setInterval(function (){
-        //yt-spec-touch-feedback-shape__fill
         if(document.querySelector('#confirm-button')) {
             document.querySelector('#confirm-button').click();
         }
