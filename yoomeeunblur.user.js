@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name unblur
-// @namespace darknio
+// @namespace DarkNio
+// @author DarkNio
 // @description unblur
 // @match https://www.yoomee.love/*
 // @version 1
