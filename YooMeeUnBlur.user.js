@@ -2,7 +2,7 @@
 // @name YooMeeUnBlur
 // @namespace DarkNio
 // @author DarkNio
-// @description unblur
+// @description YooMeeUnBlur
 // @match https://www.yoomee.love/*
 // @version 1
 // @grant unsafeWindow
