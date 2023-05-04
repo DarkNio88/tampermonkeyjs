@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name unblur
+// @name YooMeeUnBlur
 // @namespace DarkNio
 // @author DarkNio
 // @description unblur
